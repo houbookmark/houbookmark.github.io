@@ -1,0 +1,19 @@
+/*
+* ==========================================================
+*     GENERAL
+* ==========================================================
+*/
+@font-face {
+  font-family: 'MBKCorpoS';
+  src: url('mainfonts/MBKCorpoS.woff') format('woff');
+  
+  font-family: 'MBKCorpoA';
+  src: url('mainfonts/MBKCorpoA.woff') format('woff');
+}
+
+html,
+body,
+section,
+div{
+  font-family: MBKCorpoS !important;
+}
